@@ -15,10 +15,10 @@ Happy hacking!
     - [Miro Web SDK tutorials](#miro-web-sdk-tutorials)
     - [Miro Web SDK reference guide](#miro-web-sdk-reference-guide)
   - [Miro REST API resources](#miro-rest-api-resources)
-    - [Getting Started with the Miro REST API](#getting-started-with-the-miro-rest-api)
+    - [Getting started with the Miro REST API](#getting-started-with-the-miro-rest-api)
     - [Miro REST API tutorials](#miro-rest-api-tutorials)
     - [Postman collection](#postman-collection)
-  - [Miro App examples](#miro-app-examples)
+  - [Miro App Examples](#miro-app-examples)
     - [Web SDK](#web-sdk)
     - [REST API](#rest-api)
   - [Support and community](#support-and-community)
@@ -34,7 +34,7 @@ Happy hacking!
 ### Getting started with the Miro Web SDK
 
 - [Quickstart (video):](https://beta.developers.miro.com/docs/try-out-the-web-sdk-in-less-than-1-minute) try the Web SDK in less than 1 minute.
-- [Quickstart (text):](https://beta.developers.miro.com/docs/try-out-the-web-sdk) get started, try the Web SDK in less than 1 minute, and use the Miro Web SDK in the developer console to get acquainted with its feature set.
+- [Quickstart (article):](https://beta.developers.miro.com/docs/try-out-the-web-sdk) get started, try the Web SDK in less than 1 minute, and use the Miro Web SDK in the developer console to get acquainted with its feature set.
 - [Build your first Hello World app](https://beta.developers.miro.com/docs/build-your-first-hello-world-app): Bootstrap the hello world app, create a Developer team in Miro, create and configure your app in Miro.
 
 ### Miro Web SDK tutorials
@@ -45,8 +45,8 @@ Check out our how-to articles with step-by-step instructions and code examples s
 - [Update and sync item properties](https://beta.developers.miro.com/docs/update-and-sync-item-properties)
 - [Add icon click to your app](https://beta.developers.miro.com/docs/add-icon-click-to-your-app)
 - [Add an icon to your app](https://beta.developers.miro.com/docs/add-a-logo-to-your-app)
-- [Build a Calendar app in Miro](https://beta.developers.miro.com/docs/building-a-calendar-app-in-miro)
-- [Convert Sticky Notes to Shapes](https://beta.developers.miro.com/docs/converting-sticky-notes-to-shapes)
+- [Build a calendar app in Miro](https://beta.developers.miro.com/docs/building-a-calendar-app-in-miro)
+- [Convert sticky notes to shapes](https://beta.developers.miro.com/docs/converting-sticky-notes-to-shapes)
 
 
 ### Miro Web SDK reference guide
@@ -55,10 +55,10 @@ Look up methods, board item properties, and copy-paste code examples from the [M
 
 ## Miro REST API resources
 
-### Getting Started with the Miro REST API
+### Getting started with the Miro REST API
 
 - [Quickstart (video):](https://beta.developers.miro.com/docs/try-out-the-rest-api-in-less-than-3-minutes) try the REST API in less than 3 minutes.
-- [Quickstart (text):](https://beta.developers.miro.com/docs/build-your-first-hello-world-app-1) get started and try the REST API in less than 3 minutes.
+- [Quickstart (article):](https://beta.developers.miro.com/docs/build-your-first-hello-world-app-1) get started and try the REST API in less than 3 minutes.
 
 ### Miro REST API tutorials
 
@@ -70,16 +70,16 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 Placeholder: add link when available.
     
-## Miro App examples
+## Miro App Examples
 
-Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples) to get inspiration, customize, and tinker with example apps built on top of Miro's Developer Platform 2.0.
+Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples) to get inspiration, customize, and tinker with apps built on top of Miro's Developer Platform 2.0.
 
 ### Web SDK
 
 The fastest way to bootstrap a new app is by using [`create-miro-app`](https://www.npmjs.com/package/create-miro-app).<br />
 [Learn more about building your first Hello World app](https://beta.developers.miro.com/docs/build-your-first-hello-world-app).
 
-The following table lists app examples that use the Miro Web SDK. 
+These are app examples that use the Miro Web SDK: 
 
 |                   App example                                      | Description                                                                                                                                        |
 | :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -94,18 +94,19 @@ The following table lists app examples that use the Miro Web SDK.
 
 ### REST API
 
-The following table lists app examples that use the Miro REST API. 
-
+These are app examples that use the Miro REST API:
 
 |                   App example                                      | Description                                                                                                                                        |
 | :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [python_oauth](https://github.com/miroapp/app-examples/blob/beta/examples/oauth/python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| This python sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro.                                            |
-| [node_oauth](https://github.com/miroapp/app-examples/blob/beta/examples/oauth/node)     | This NodeJS sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint. |
+| [python_oauth](https://github.com/miroapp/app-examples/blob/beta/examples/oauth/python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| This Python sample shows how to implement the Oauth 2.0 authorization code flow in Miro.                                            |
+| [node_oauth](https://github.com/miroapp/app-examples/blob/beta/examples/oauth/node)     | This Node.js sample shows how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint. |
 
 ## Support and community
 
-- Stuck somewhere, encountered any blockers or error, need assistance? We are here to help you! <add timings if needed here> Contact <add info on people who can help, channels, email IDs> 
+- Stuck somewhere? Encountered any blockers or errors? Need assistance? We're here to help you!<br />
+  You can contact us during these times: <add timings if needed here><br />
+  And you can find us here: <add info on people who can help, channels, email IDs>
 
-- If you'd like to contribute your own app or idea, visit our [contributing guide](https://github.com/miroapp/app-examples/blob/beta/CONTRIBUTING.md) to get started.
+- If you'd like to contribute with your own app or idea, check our [contributing guide](https://github.com/miroapp/app-examples/blob/beta/CONTRIBUTING.md) to get started.
 
-- Interested in learning more? Feel free to join our [Developer Community](https://bit.ly/miro-developers) to chat with other Miro Developers!
+- Interested in learning more? Join our [Developer community on Discord](https://bit.ly/miro-developers) to chat with other Miro developers!
