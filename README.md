@@ -35,7 +35,7 @@ Happy hacking!
 
 - [Quickstart (video):](https://beta.developers.miro.com/docs/try-out-the-web-sdk-in-less-than-1-minute) try the Web SDK in less than 1 minute.
 - [Quickstart (article):](https://beta.developers.miro.com/docs/try-out-the-web-sdk) get started, try the Web SDK in less than 1 minute, and use the Miro Web SDK in the developer console to get acquainted with its feature set.
-- [Build your first Hello World app](https://beta.developers.miro.com/docs/build-your-first-hello-world-app): Bootstrap the hello world app, create a Developer team in Miro, create and configure your app in Miro.
+- [Build your first Hello World app](https://beta.developers.miro.com/docs/build-your-first-hello-world-app): bootstrap the Hello World app, create a Developer team in Miro, create and configure your app in Miro.
 
 ### Miro Web SDK tutorials
 
@@ -68,8 +68,8 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 ### Postman collection
 
-Placeholder: add link when available.
-    
+*<add link when available>*
+
 ## Miro App Examples
 
 Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples) to get inspiration, customize, and tinker with apps built on top of Miro's Developer Platform 2.0.
@@ -104,8 +104,8 @@ These are app examples that use the Miro REST API:
 ## Support and community
 
 - Stuck somewhere? Encountered any blockers or errors? Need assistance? We're here to help you!<br />
-  You can contact us during these times: <add timings if needed here><br />
-  And you can find us here: <add info on people who can help, channels, email IDs>
+  You can contact us during these times: *<add times here>* <br />
+  And you can find us here: *<add info on people who can help, channels, email IDs>*
 
 - If you'd like to contribute with your own app or idea, check our [contributing guide](https://github.com/miroapp/app-examples/blob/beta/CONTRIBUTING.md) to get started.
 
