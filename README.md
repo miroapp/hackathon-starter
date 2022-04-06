@@ -25,7 +25,7 @@ Happy hacking!
 
 ## Miro Developer Platform concepts
 
-- New to the Miro Developer Platform?<br />
+- New to the Miro Developer Platform? Interested in learning more about platform concepts?<br />
   [Read our introduction page](https://beta.developers.miro.com/docs/introduction) and familiarize yourself with the Miro Developer Platform capabilities in a few minutes. 
 
 - Not sure about whether you should use the Miro Web SDK or the REST APIs?<br />
