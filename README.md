@@ -77,7 +77,7 @@ The following table lists app examples that use the Miro REST API.
 | [python_oauth](https://github.com/miroapp/app-examples/blob/beta/examples/oauth/python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| This python sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro.                                            |
 | [node_oauth](https://github.com/miroapp/app-examples/blob/beta/examples/oauth/node)     | This NodeJS sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint. |
 
-## Support and community
+# Support and community
 
 - Stuck somewhere, encountered any blockers or error, need assistance? We are here to help you! <add timings if needed here> Contact <add info on people who can help, channels, email IDs> 
 
