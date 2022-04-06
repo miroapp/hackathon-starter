@@ -70,7 +70,7 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 ### Postman collection
 
-*<add link when available>*
+<add link when available>
 
 ## Miro App Examples
 
