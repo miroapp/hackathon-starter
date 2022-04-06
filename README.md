@@ -25,7 +25,7 @@ Happy hacking!
 
 ## Miro Developer Platform concepts
 
-- New to the Miro Developer Platform? Interested in learning more about platform concepts? [Read our introduction page[(https://beta.developers.miro.com/docs/introduction and familiarize yourself with the Miro Developer Platform capabilities in a few minutes. 
+- New to the Miro Developer Platform? Interested in learning more about platform concepts? [Read our introduction page](https://beta.developers.miro.com/docs/introduction) and familiarize yourself with the Miro Developer Platform capabilities in a few minutes. 
 
 - Not sure about whether you should use the Miro Web SDK or the REST APIs? [Here's a table](https://beta.developers.miro.com/docs/miro-web-sdk-vs-rest-apis) that provides helpful guidelines on Miro Web SDK and REST API usage.
 
@@ -76,7 +76,7 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 
 ### Web SDK
 
-The fastest way to bootstrap a new app is by using [`create-miro-app`](https://www.npmjs.com/package/create-miro-app). 
+The fastest way to bootstrap a new app is by using [`create-miro-app`](https://www.npmjs.com/package/create-miro-app).<br />
 [Learn more about building your first Hello World app](https://beta.developers.miro.com/docs/build-your-first-hello-world-app).
 
 The following table lists app examples that use the Miro Web SDK. 
