@@ -25,9 +25,11 @@ Happy hacking!
 
 ## Miro Developer Platform concepts
 
-- New to the Miro Developer Platform? Interested in learning more about platform concepts? [Read our introduction page](https://beta.developers.miro.com/docs/introduction) and familiarize yourself with the Miro Developer Platform capabilities in a few minutes. 
+- New to the Miro Developer Platform?<br />
+  [Read our introduction page](https://beta.developers.miro.com/docs/introduction) and familiarize yourself with the Miro Developer Platform capabilities in a few minutes. 
 
-- Not sure about whether you should use the Miro Web SDK or the REST APIs? [Here's a table](https://beta.developers.miro.com/docs/miro-web-sdk-vs-rest-apis) that provides helpful guidelines on Miro Web SDK and REST API usage.
+- Not sure about whether you should use the Miro Web SDK or the REST APIs?<br />
+  [Here's a table](https://beta.developers.miro.com/docs/miro-web-sdk-vs-rest-apis) that provides helpful guidelines on Miro Web SDK and REST API usage.
 
 ## Miro Web SDK resources
 
@@ -104,9 +106,9 @@ These are app examples that use the Miro REST API:
 ## Support and community
 
 - Stuck somewhere? Encountered any blockers or errors? Need assistance? We're here to help you!<br />
-  You can contact us during these times: *<add times here>* <br />
+  You can contact us during these times: *<add times here>*<br />
   And you can find us here: *<add info on people who can help, channels, email IDs>*
 
 - If you'd like to contribute with your own app or idea, check our [contributing guide](https://github.com/miroapp/app-examples/blob/beta/CONTRIBUTING.md) to get started.
 
-- Interested in learning more? Join our [Developer community on Discord](https://bit.ly/miro-developers) to chat with other Miro developers!
+- Join our [Developer community on Discord](https://bit.ly/miro-developers) to exchange ideas and to chat with other Miro developers!
