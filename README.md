@@ -41,7 +41,7 @@ Happy hacking!
 
 ### Miro Web SDK tutorials
 
-Check out our how-to articles with step-by-step instructions and code examples so that you can:  
+Check out our how-to articles with step-by-step instructions and code examples so you can:  
 
 - [Use the browser developer tools with the Miro Web SDK](https://beta.developers.miro.com/docs/use-the-developer-tools-with-the-miro-web-sdk)
 - [Update and sync item properties](https://beta.developers.miro.com/docs/update-and-sync-item-properties)
@@ -64,7 +64,7 @@ Look up methods, board item properties, and copy-paste code examples from the [M
 
 ### Miro REST API tutorials
 
-Check out our how-to articles with step-by-step instructions and code examples so that you can:  
+Check out our how-to articles with step-by-step instructions and code examples so you can:  
 
 - [Get started with OAuth 2.0 and Miro](https://beta.developers.miro.com/docs/getting-started-with-oauth)
 
@@ -74,7 +74,7 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 ## Miro App Examples
 
-Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples) to get inspiration, customize, and tinker with apps built on top of Miro's Developer Platform 2.0.
+Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples) to get inspiration, customize, and explore apps built on top of Miro's Developer Platform 2.0.
 
 ### Web SDK
 
