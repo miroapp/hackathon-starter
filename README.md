@@ -105,10 +105,6 @@ These are app examples that use the Miro REST API:
 
 ## Support and community
 
-- Stuck somewhere? Encountered any blockers or errors? Need assistance? We're here to help you!<br />
-  You can contact us during these times: *<add times here>*<br />
-  And you can find us here: *<add info on people who can help, channels, email IDs>*
-
-- If you'd like to contribute with your own app or idea, check our [contributing guide](https://github.com/miroapp/app-examples/blob/beta/CONTRIBUTING.md) to get started.
-
-- Join our [Developer community on Discord](https://bit.ly/miro-developers) to exchange ideas and to chat with other Miro developers!
+- Stuck somewhere? Encountered any blockers or errors? Need assistance? We're here to help you! Ask your question on our [developer community forum](https://community.miro.com/developer-platform-and-apis-57).
+- Feel free to open an `issue` or a `pull request` to improve this guide.
+- Join our [Developer community on Discord](https://bit.ly/miro-developers) to exchange ideas and to chat with other Miro developers.
