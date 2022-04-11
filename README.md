@@ -70,7 +70,7 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 ### Postman collection
 
-<add link when available>
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/20467754-1a7d3514-f19f-4a86-9001-d694f160da3d?action=collection%2Ffork&collection-url=entityId%3D20467754-1a7d3514-f19f-4a86-9001-d694f160da3d%26entityType%3Dcollection%26workspaceId%3Dc9b8d26d-0e45-472f-8c3a-d04a3d43b17b)
 
 ## Miro App Examples
 
