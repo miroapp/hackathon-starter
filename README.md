@@ -1,4 +1,4 @@
-[<img src="https://github.com/miroapp/.github/blob/main/profile/banner.png" alt="Miro Developer Platform" />](https://miro.com/api/)
+[<img src="https://raw.githubusercontent.com/miroapp/.github/main/profile/banner.png" alt="Miro Developer Platform" />](https://miro.com/api/)
 # Hackathon starter kit
 
 If you have attended hackathons in the past, you know how much time it takes to get a project started. From that first second when you get thinking on what to build, to picking a programming language, and then deciding what framework to use&mdash;it doesn't end there, and the list goes on! That's why this page is here! These resources help you get started with minimal time and effort. 
