@@ -100,9 +100,9 @@ These are app examples that use the Miro REST API:
 
 |                   App example                                      | Description                                                                                                                                        |
 | :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [python_oauth](https://github.com/miroapp/app-examples/tree/main/examples/oauth/python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| This Python sample shows how to implement the Oauth 2.0 authorization code flow in Miro.                                            |
-| [node_oauth](https://github.com/miroapp/app-examples/tree/main/examples/oauth/node)     | This Node.js sample shows how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint. |
-| [rest-stickies-csv](https://github.com/miroapp/app-examples/tree/main/examples/rest-stickies-csv)     | This Node.js sample uses SSR (HandlebarsJS) to provide a browser-based tool for leveraging Miro's Sticky Notes and Tag APIs, as well as a .csv import functionality. |
+| [python_oauth](https://github.com/miroapp/app-examples/tree/main/examples/python-oauth) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| This Python sample shows how to implement the Oauth 2.0 authorization code flow in Miro.                                            |
+| [node_oauth](https://github.com/miroapp/app-examples/tree/main/examples/node-oauth)     | This Node.js sample shows how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint. |
+| [node-stickies-csv](https://github.com/miroapp/app-examples/tree/main/examples/node-stickies-csv)     | This Node.js sample uses SSR (HandlebarsJS) to provide a browser-based tool for leveraging Miro's Sticky Notes and Tag APIs, as well as a .csv import functionality. |
 
 ## Support and community
 
