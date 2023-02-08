@@ -50,10 +50,10 @@ Look up methods, board item properties, and copy-paste code examples from the [M
 
 ## Miro REST API resources
 
-### Miro API clients
+### Miro REST API client
 The Miro Node.js client is a JavaScript library that enables Miro REST API functionality in Miro apps based on Node.js. You can use Node.js and JavaScript to send requests to and handle responses from the Miro REST API. Here are some resources that might come handy:
 
-- [Readme](https://developers.miro.com/docs/miro-nodejs-readme): start here
+- [Miro NodeJs Client library doc](https://developers.miro.com/docs/miro-nodejs-readme)
 - [Quickstart for task automation](https://developers.miro.com/docs/miro-nodejs-quickstart): a simple quick start guide to get up and running. 
 - [Quickstart with OAuth and Express](https://developers.miro.com/docs/miro-nodejs-quickstart-with-oauth-and-express): a quick start guide to build a Node.js app with OAuth 2.0 authentication and a web server based on the Express web framework.
 - [Implement storage for data persistence](https://developers.miro.com/docs/miro-nodejs-implement-storage-for-data-persistence): implement data storage in a Node.js app.
