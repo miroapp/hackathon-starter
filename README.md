@@ -78,7 +78,7 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 
 ### Miro Web SDK
 
-|                                                         | Description                                                                                                                                        |
+|                   App example                                      | Description                                                                                                                                        |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [drag-and-drop](examples/drag-and-drop)                 | This example shows you how to drag and drop images from your app onto the board.                                                                   |
 | [asset-search](examples/asset-search)                   | This example shows you how to filter and search through assets by name and/or multiple tags.                                                       |
@@ -95,7 +95,7 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 
 ### REST APIs
 
-|                                                                   | Description                                                                                                                                                                                                                                                                                                     |
+|                   App example                                      | Description                                                                                                                                        |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [python-oauth](examples/python-oauth)                             | This Python sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro.                                                                                                                                                                                                                 |
 | [node-oauth](examples/node-oauth)                                 | This Node.js sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint.                                                                                                                                                                     |
@@ -110,7 +110,7 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 
 ### Full-stack apps
 
-|                                                       | Description                                                                                                                               |
+|                   App example                                      | Description                                                                                                                                        |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | [github-appcards](examples/github-appcards)           | This full-stack example shows how to build an integration with GitHub that syncs data between GitHub issues and Miro app cards.           |
 | [plant-uml](https://github.com/miroapp/miro-plantuml) | This full-stack example shows how to import [Plant UML](https://plantuml.com/) diagrams into Miro as editable board items.                |
