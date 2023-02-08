@@ -41,14 +41,7 @@ Happy hacking!
 
 ### Miro Web SDK tutorials
 
-Check out our how-to articles with step-by-step instructions and code examples so you can:  
-
-- [Use the browser developer tools with the Miro Web SDK](https://developers.miro.com/docs/use-the-developer-tools-with-the-miro-web-sdk)
-- [Update and sync item properties](https://developers.miro.com/docs/update-and-sync-item-properties)
-- [Add icon click to your app](https://developers.miro.com/docs/add-icon-click-to-your-app)
-- [Add an icon to your app](https://developers.miro.com/docs/add-a-logo-to-your-app)
-- [Build a calendar app in Miro](https://developers.miro.com/docs/building-a-calendar-app-in-miro)
-- [Convert sticky notes to shapes](https://developers.miro.com/docs/converting-sticky-notes-to-shapes)
+Check out our [how-tos and step-by-step tutorials](https://developers.miro.com/docs/web-sdk-how-tos) to walk you through typical use cases when working with the Miro Web SDK.
 
 
 ### Miro Web SDK reference guide
@@ -73,9 +66,8 @@ The Miro Node.js client is a JavaScript library that enables Miro REST API funct
 
 ### Miro REST API tutorials
 
-Check out our how-to articles with step-by-step instructions and code examples so you can:  
+Check out our [how-tos and step-by-step tutorials](https://developers.miro.com/docs/rest-api-how-tos) to walk you through typical use cases when working with the Miro REST API.
 
-- [Get started with OAuth 2.0 and Miro](https://developers.miro.com/docs/getting-started-with-oauth)
 
 ### Postman collection
 
