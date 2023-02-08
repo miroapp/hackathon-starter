@@ -76,33 +76,48 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples) to get inspiration, customize, and explore apps built on top of Miro's Developer Platform 2.0.
 
-### Web SDK
+### Miro Web SDK
 
-The fastest way to bootstrap a new app is by using [`create-miro-app`](https://www.npmjs.com/package/create-miro-app).<br />
-[Learn more about building your first Hello World app](https://developers.miro.com/docs/build-your-first-hello-world-app).
+|                                                         | Description                                                                                                                                        |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [drag-and-drop](examples/drag-and-drop)                 | This example shows you how to drag and drop images from your app onto the board.                                                                   |
+| [asset-search](examples/asset-search)                   | This example shows you how to filter and search through assets by name and/or multiple tags.                                                       |
+| [digital-asset-manager](examples/digital-asset-manager) | This example shows you how to build a digital asset manager using Bynder's API.                                                                    |
+| [connect-firebase](examples/connect-firebase)           | This example shows you how to connect an SDK app to a Firebase backend.                                                                            |
+| [stickynotes-to-shapes](examples/stickynotes-to-shapes) | This example allows you to select several stickies, click the plugin button in the bottom bar, and replace any selected stickies with shapes.      |
+| [template-builder](examples/template-builder)           | This example shows how to create and position on the board multiple widgets of different types and render create custom interfaces in the library. |
+| [calendar](examples/calendar)                           | This example shows you how to add a calendar made with shapes and text for a given month and year.                                                 |
+| [wordle](examples/wordle)                               | This example shows you how to create a Wordle-like game using the Miro Web SDK.                                                                    |
+| [blob-maker](examples/blob-maker)                       | This example shows you how to create a drag and drop blobmaker using Miro's Web SDK.                                                               |
+| [youtube-room](examples/youtube-room)                   | This example shows you how to sync a YouTube player across multiple users through Socket.IO.                                                       |
 
-These are app examples that use the Miro Web SDK: 
+<p>&nbsp;</p>
 
-|                   App example                                      | Description                                                                                                                                        |
-| :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [drag-and-drop](https://github.com/miroapp/app-examples/tree/main/examples/drag-and-drop)                 | This example shows you how to drag and drop images from your app onto the board.                                                                    |
-| [stickynotes-to-shapes](https://github.com/miroapp/app-examples/tree/main/examples/stickynotes-to-shapes) | This example allows you to select several sticky notes, click the app button in the app toolbar, and replace any selected sticky notes with shapes.      |
-| [template-builder](https://github.com/miroapp/app-examples/tree/main/examples/template-builder)           | This example shows how to create and position on the board different types of items and create a custom user interfaces in the app panel. |
-| [calendar](https://github.com/miroapp/app-examples/tree/main/examples/calendar)                           | This example shows you how to add a calendar made with shapes and text for a given month and year.                                                 |
-| [wordle](https://github.com/miroapp/app-examples/tree/main/examples/wordle)                               | This example shows you how to create a Wordle-like game using the Miro Web SDK.                                                                      |
-| [blob-maker](https://github.com/miroapp/app-examples/tree/main/examples/blob-maker)                       | This example shows you how to create a drag-and-drop blobmaker using the Miro Web SDK.                                                               |
-| [youtube-room](https://github.com/miroapp/app-examples/tree/main/examples/youtube-room)                   | This example shows you how to sync a YouTube player across multiple users through [Socket.IO](https://socket.io/).                                                       |
+### REST APIs
 
+|                                                                   | Description                                                                                                                                                                                                                                                                                                     |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [python-oauth](examples/python-oauth)                             | This Python sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro.                                                                                                                                                                                                                 |
+| [node-oauth](examples/node-oauth)                                 | This Node.js sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint.                                                                                                                                                                     |
+| [node-passport-oauth](examples/node-passport-oauth)               | This Node.js sample demonstrates how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint using [Passport.js](https://www.passportjs.org/).                                                                                                                    |
+| [nextjs-oauth](examples/nextjs-oauth)                             | This app demonstrates how to implement the Oauth 2.0 authorization code flow from Miro into a client side application built with Next.js.                                                                                                                                                                       |
+| [node-stickies-csv](examples/node-stickies-csv)                   | This Node.js sample app uses server side rendering (Handlebars.js) to provide a lightweight, CRUD-oriented REST example in the browser for Miro's sticky notes and tags APIs.<br />It demonstrates a structured > unstructured use case via CSV import, creating Miro sticky notes with tags based on CSV data. |
+| [python-flask-starter](examples/rest/python-flask-starter)        | This Python/Flask boilerplate will allow to start using the Miro REST API in a few minutes.<br />This sample implements the full Miro authorization (OAuth 2.0 with refresh token) flow.                                                                                                                        |
+| [python-external-oauth](examples/python-external-oauth)           | This Python/Flask app shows you how to set up an OAuth 2.0 flow with GitHub.<br />This sample allows you to log in with GitHub and post some details to a Miro Board.                                                                                                                                           |
+| [enterprise-team-management](examples/enterprise-team-management) | This Node.js sample demonstrates how to manage teams and organizations within Miro using Miro's REST API.<br />ℹ️ _This example requires an Enterprise plan subscription and an [Enterprise Team account](https://miro.com/enterprise/)._                                                                       |
 
-### REST API
+<p>&nbsp;</p>
 
-These are app examples that use the Miro REST API:
+### Full-stack apps
 
-|                   App example                                      | Description                                                                                                                                        |
-| :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [python_oauth](https://github.com/miroapp/app-examples/tree/main/examples/python-oauth) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| This Python sample shows how to implement the Oauth 2.0 authorization code flow in Miro.                                            |
-| [node_oauth](https://github.com/miroapp/app-examples/tree/main/examples/node-oauth)     | This Node.js sample shows how to implement the Oauth 2.0 authorization code flow in Miro and make an API request to a Miro endpoint. |
-| [node-stickies-csv](https://github.com/miroapp/app-examples/tree/main/examples/node-stickies-csv)     | This Node.js sample uses SSR (HandlebarsJS) to provide a browser-based tool for leveraging Miro's Sticky Notes and Tag APIs, as well as a .csv import functionality. |
+|                                                       | Description                                                                                                                               |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [github-appcards](examples/github-appcards)           | This full-stack example shows how to build an integration with GitHub that syncs data between GitHub issues and Miro app cards.           |
+| [plant-uml](https://github.com/miroapp/miro-plantuml) | This full-stack example shows how to import [Plant UML](https://plantuml.com/) diagrams into Miro as editable board items.                |
+| [nextjs](examples/nextjs-full-stack)                  | This full-stack example shows a Next.js application that uploads a camera image to the Miro board using Web SDK and REST API integration. |
+| [webhooks-manager](examples/webhooks-manager/)        | This full-stack example demonstrates how to interact with the webhooks API, and how to handle the webhooks challenge.                     |
+
+<p>&nbsp;</p>
 
 ## Support and community
 
