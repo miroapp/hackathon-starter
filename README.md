@@ -70,7 +70,7 @@ Check out our how-to articles with step-by-step instructions and code examples s
 
 ### Postman collection
 
-[![Run in Postman](https://www.postman.com/miro-developer-platform/workspace/miro-developer-platform/documentation/20467754-1a7d3514-f19f-4a86-9001-d694f160da3d)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/miro-developer-platform/workspace/miro-developer-platform/documentation/20467754-1a7d3514-f19f-4a86-9001-d694f160da3d)
 
 ## Miro App Examples
 
