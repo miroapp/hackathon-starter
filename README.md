@@ -120,6 +120,12 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 
 <p>&nbsp;</p>
 
+## Miro app design resources
+
+[Mirotone](https://www.mirotone.xyz/css) CSS components is a base library that enables everyone to design and build their Miro apps. The goal of this design system is to enable makers to quickly jump into a simple, yet consistent and efficient user experience while creating their functional solutions. The framework aims to provide ready-to-use frontend components that you can incorporate into your app in Miro.
+<p>&nbsp;</p>
+
+
 ## Support and community
 
 - Stuck somewhere? Encountered any blockers or errors? Need assistance? We're here to help you! Ask your question on our [developer community forum](https://community.miro.com/developer-platform-and-apis-57).
