@@ -22,7 +22,9 @@ Happy hacking!
   - [Miro App Examples](#miro-app-examples)
     - [Web SDK](#web-sdk)
     - [REST API](#rest-api)
+  - [Miro CSS library](#miro-css-library)
   - [Support and community](#support-and-community)
+
 
 ## Miro Developer Platform concepts
 
