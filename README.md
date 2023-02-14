@@ -15,6 +15,7 @@ Happy hacking!
     - [Miro Web SDK tutorials](#miro-web-sdk-tutorials)
     - [Miro Web SDK reference guide](#miro-web-sdk-reference-guide)
   - [Miro REST API resources](#miro-rest-api-resources)
+    - [Miro REST API client](#miro-rest-api-client)
     - [Getting started with the Miro REST API](#getting-started-with-the-miro-rest-api)
     - [Miro REST API tutorials](#miro-rest-api-tutorials)
     - [Postman collection](#postman-collection)
