@@ -22,6 +22,7 @@ Happy hacking!
   - [Miro App Examples](#miro-app-examples)
     - [Web SDK](#web-sdk)
     - [REST API](#rest-api)
+    - [Full-stack apps](#full-stack-apps)
   - [Miro CSS library](#miro-css-library)
   - [Support and community](#support-and-community)
 
