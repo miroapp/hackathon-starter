@@ -24,6 +24,7 @@ Happy hacking!
     - [Web SDK](#web-sdk)
     - [REST API](#rest-api)
     - [Full-stack apps](#full-stack-apps)
+  - [Miro for Developers YouTube Channel](#miro-for-developers-youtube-channel)
   - [Miro CSS library](#miro-css-library)
   - [Support and community](#support-and-community)
 
@@ -84,6 +85,8 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 
 | App Example                                                                                               | Description                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ai-image-generator](https://github.com/miroapp/app-examples/tree/main/examples/ai-image-generator)               | Generator images using OpenAI and drag and drop those to a Miro board
+| [breakout-rooms](https://github.com/miroapp/app-examples/tree/main/examples/breakout-rooms)               | Leverage collaborative and real-time features, including sessions and real-time events and storage.                                                                                               |
 | [csv-to-mindmap](https://github.com/miroapp/app-examples/tree/main/examples/csv-to-mindmap)               | Import data from CSV and create mind map on a Miro board                                                                                           |
 | [drag-and-drop](https://github.com/miroapp/app-examples/tree/main/examples/drag-and-drop)                 | This example shows you how to drag and drop images from your app onto the board.                                                                   |
 | [asset-search](https://github.com/miroapp/app-examples/tree/main/examples/asset-search)                   | This example shows you how to filter and search through assets by name and/or multiple tags.                                                       |
@@ -124,6 +127,10 @@ Clone our [Miro App Examples repository](https://github.com/miroapp/app-examples
 | [webhooks-manager](https://github.com/miroapp/app-examples/tree/main/examples/webhooks-manager/)                | This full-stack example demonstrates how to interact with the webhooks API, and how to handle the webhooks challenge.                     |
 
 <p>&nbsp;</p>
+
+## Miro for Developers YouTube Channel
+[Miro for Developers](https://www.youtube.com/@mirofordevelopers) features videos which can help you with building, designing, and deploying your Miro app. Check out the channel to find over 40 developer focused videos, including Question and Answer sessions with our engineers,
+webinars to help you build your Miro apps, and much more.
 
 ## Miro CSS library
 
